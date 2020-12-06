@@ -1,0 +1,11 @@
+C:\Users\Mihnea\source\repos\Aplicatie\Aplicatie\bin\Release\Aplicatie.exe.config
+C:\Users\Mihnea\source\repos\Aplicatie\Aplicatie\bin\Release\Aplicatie.exe
+C:\Users\Mihnea\source\repos\Aplicatie\Aplicatie\bin\Release\Aplicatie.pdb
+C:\Users\Mihnea\source\repos\Aplicatie\Aplicatie\obj\Release\Aplicatie.csprojAssemblyReference.cache
+C:\Users\Mihnea\source\repos\Aplicatie\Aplicatie\obj\Release\Aplicatie.Form1.resources
+C:\Users\Mihnea\source\repos\Aplicatie\Aplicatie\obj\Release\Aplicatie.Form2.resources
+C:\Users\Mihnea\source\repos\Aplicatie\Aplicatie\obj\Release\Aplicatie.Properties.Resources.resources
+C:\Users\Mihnea\source\repos\Aplicatie\Aplicatie\obj\Release\Aplicatie.csproj.GenerateResource.cache
+C:\Users\Mihnea\source\repos\Aplicatie\Aplicatie\obj\Release\Aplicatie.csproj.CoreCompileInputs.cache
+C:\Users\Mihnea\source\repos\Aplicatie\Aplicatie\obj\Release\Aplicatie.exe
+C:\Users\Mihnea\source\repos\Aplicatie\Aplicatie\obj\Release\Aplicatie.pdb
